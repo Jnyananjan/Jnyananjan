@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jnyananjan%20Sarkar&textBg=false&animation=fadeIn&desc=✨Founder%20•%20AI/ML%20Developer%20•%20Builder✨&fontAlignY=40&descAlignY=61" 
+    width="100%" 
+  />
+</p>
+
+
 # 💫 About Me:
 🚀 I’m currently working on: TechyPad ecosystem<br>🤝 I’m looking to collaborate on: Embedded + AI projects<br>🛠️ I’m looking for help with: Scaling products & production<br>🌱 I’m currently learning: Advanced AI + System Design<br>💬 Ask me about: ESP32, PCB design, product building<br>⚡ Fun fact: I build things faster than I plan them 😄
 
@@ -16,4 +24,9 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jnyananjan) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Made%20with%20❤︎%20by%20Jana&textBg=false&animation=fadeIn&fontAlignY=71&section=footer" 
+    width="100%" 
+  />
+</p>
