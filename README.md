@@ -16,7 +16,7 @@
 
 ## 💜 About Me
 
-Hi! I'm **Jnyananjan (Jana)**, a builder who works at the intersection of **AI/ML, embedded systems, and product development**.
+Hi! I'm **Jnyananjan (aka Jana)**, a builder who works at the intersection of **AI/ML, embedded systems, and product development**.
 
 I focus on creating systems that are not just functional, but **smart, scalable, and real-world ready**.
 
