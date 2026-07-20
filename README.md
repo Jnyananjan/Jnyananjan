@@ -35,7 +35,7 @@ I focus on creating systems that are not just functional, but **smart, scalable,
   <a href="https://discord.gg/Q6DdEXugdn">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/jana_sarkar_0">
+  <a href="https://instagram.com/jnyananjan0">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/techy_pad">
