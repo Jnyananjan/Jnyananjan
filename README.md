@@ -35,10 +35,10 @@ I focus on creating systems that are not just functional, but **smart, scalable,
   <a href="https://discord.gg/Q6DdEXugdn">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/jnyananjan0">
+  <a href="https://instagram.com/jnyananjan01">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/techy_pad">
+  <a href="https://x.com/jnyananjan01">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
   </a>
   <a href="mailto:jnyananjansarkar01@gmail.com">
