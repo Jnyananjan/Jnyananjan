@@ -14,27 +14,31 @@
   </a>
 </p>
 
+
 ## 💜 About Me
 
-Hi! I'm **Jnyananjan (aka Jana)**, a builder who works at the intersection of **AI/ML, embedded systems, and product development**.
+Hi! I'm **Jnyananjan (aka Jana)** — a CSE AI/ML student, founder, and builder who loves turning ideas into real products.
 
-I focus on creating systems that are not just functional, but **smart, scalable, and real-world ready**.
+I enjoy working across **software, AI/ML, embedded systems, and hardware**, especially when they come together to solve real-world problems.
 
-- 🚀 Working on **TechyPad** — building next-gen smart control systems  
-- 🤖 Deep interest in **AI/ML, embedded systems & hardware-software integration**  
-- 🌱 Currently learning **CSE (AI/ML) at SNU Kolkata**  
-- 🛠️ Exploring **product scaling, manufacturing & real-world deployment**  
-- 💬 Talk to me about **Hardware, PCB design, system architecture & product building**  
-- ⚡ Building **real-world smart systems with AI + hardware** 
+- 🚀 Founder of **TechyPad**
+- 🎓 CSE (AI/ML) student at **SNU Kolkata**
+- 🤖 Exploring **AI/ML & intelligent systems**
+- 🔧 Building with **ESP32, Arduino & embedded systems**
+- 💻 Learning **full-stack development**
+- 🛠️ Interested in **product development, PCB design & manufacturing**
+- ⚡ I like building things, breaking them, fixing them, and shipping them.
 
 ---
 
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
+  <a href="https://techypad.in">
+  <img src="https://img.shields.io/badge/TechyPad-1189AD.svg?logo=googlechrome&logoColor=white"/>
+</a>
     <a href="https://www.linkedin.com/in/jnyananjan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white"/>
-  </a>
   </a>
   <a href="https://instagram.com/jnyananjan01">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
@@ -53,9 +57,19 @@ I focus on creating systems that are not just functional, but **smart, scalable,
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🔌 Hardware & Embedded</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCB%20Design-000000?style=for-the-badge&logo=pcbway&logoColor=white"/>
 </p>
 
 ---
@@ -63,6 +77,7 @@ I focus on creating systems that are not just functional, but **smart, scalable,
 <h3 align="center">⚙️ Frameworks & Runtime</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
 </p>
@@ -81,6 +96,7 @@ I focus on creating systems that are not just functional, but **smart, scalable,
 <h3 align="center">☁️ Deployment & Database</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
